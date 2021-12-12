@@ -12,3 +12,9 @@ h264 grabber is able to parse the video streams
 
 Technical discussion on /tmp/view
 - https://github.com/shadow-1/yi-hack-v3/issues/126
+
+
+# Build for armv5 
+```
+cross build --target armv5te-unknown-linux-musleabi% 
+```
